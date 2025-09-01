@@ -44,16 +44,11 @@
 
 ---
 
-## 🎯 Objectif
-
-🔎 Je suis actuellement **à la recherche d'une alternance** (12 à 24 mois) en tant que **Data Analyst / Scientist Junior** pour intégrer un Master ou Titre RNCP Bac+5 dès septembre 2025.
-
 📩 **Contacte-moi sur LinkedIn** ou par email si mon profil t’intéresse.
 
 ---
 
 ## 🔗 Liens utiles
 
-- 📂 [Mon Portfolio Notion / PDF](#) 
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/ton-nom/](https://www.linkedin.com/in/claude-orly-samy-metellus-197295365?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOCMU%2F8OYTwaKdflsbR8aaA%3D%3D))
 - 💌 Email : **mclaudeorly@email.com**
