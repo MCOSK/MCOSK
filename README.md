@@ -1,6 +1,6 @@
 #  Bienvenue sur mon GitHub !
 
-🎓 Je suis ClAUDE METELLUS , étudiant en mathématiques et en data science.
+🎓 Je suis ClAUDE METELLUS , étudiant en Master de mathématiques
 
 ---
 
