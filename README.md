@@ -1,34 +1,17 @@
-# 👋 Bienvenue sur mon GitHub !
+#  Bienvenue sur mon GitHub !
 
-🎓 Je suis Claude METELLUS , étudiant en mathématiques et en data science.
-
----
-
-## 🚀 À propos de moi
-
-- 📊 Passionné par l'analyse de données, la modélisation statistique et le machine learning
-- 🧠 Solides bases en mathématiques appliquées (stats, proba, optimisation)
-- 🐍 Compétent en Python (pandas, matplotlib, scikit-learn), SQL, R
-- 🔍 Autodidacte, rigoureux et toujours curieux d’en apprendre plus
+🎓 Je suis ClAUDE METELLUS , étudiant en mathématiques et en data science.
 
 ---
 
-## 🧪 Projets Data récents
+##  À propos de moi
 
-### 🏡 Prédiction de prix de logements (Kaggle)
-> Régression supervisée sur un dataset immobilier  
-📁 [`/logement-regression`](./logement-regression)  
-📌 Python, pandas, scikit-learn, matplotlib
+- Passionné par l'analyse de données, la modélisation statistique et le machine learning
+-  Solides bases en mathématiques appliquées (stats, proba, optimisation)
+- Compétent en Python (pandas, matplotlib, scikit-learn), SQL, R
+-  Autodidacte, rigoureux et toujours curieux d’en apprendre plus
 
-### 🚗 Analyse des accidents de la route en France
-> Dashboard interactif avec Plotly Dash  
-📁 [`/accidents-dashboard`](./accidents-dashboard)  
-📌 Python, Dash, data.gouv.fr
-
-### 🧼 Script d’automatisation Excel
-> Nettoyage automatique de fichiers Excel volumineux  
-📁 [`/excel-cleaner`](./excel-cleaner)  
-📌 Python, pandas, os
+---
 
 ---
 
@@ -36,11 +19,11 @@
 
 | Domaine         | Compétences                        |
 |----------------|------------------------------------|
-| 🐍 Langages     | Python, R, SQL                     |
-| 📊 Data Science | pandas, numpy, scikit-learn, matplotlib |
-| 📈 BI & Visuals | Power BI, Tableau, Seaborn, Plotly |
-| 🧮 Maths        | Stats, proba, régression, ML       |
-| 📚 Autres outils| Git, Jupyter, Excel avancé         |
+|  Langages     | Python, R, SQL                     |
+| Data Science | pandas, numpy, scikit-learn, matplotlib |
+|  BI & Visuals | Power BI, Tableau, Seaborn, Plotly |
+| Maths        | Stats, proba, régression, ML       |
+|  Autres outils| Git, Jupyter, Excel avancé         |
 
 ---
 
