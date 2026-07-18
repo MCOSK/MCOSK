@@ -24,8 +24,4 @@ I bridge the gap between complex mathematical theory and real-world business con
 *   **Email:** mclaudeorly@gmail.com
 
 
-<!-- Stats (Optional but looks great) -->
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCOSK&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats" />
-</div>
+
