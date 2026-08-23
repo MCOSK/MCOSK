@@ -1,22 +1,54 @@
-# Hi there, I'm Claude Metellus 👋
+# 👋 Hi there, I'm **Claude**  
+### *Data Scientist & Quantitative Modeler — Applied Mathematics & Machine Learning*
 
-###  Data & Business Intelligence Analyst | Applied Mathematics
+I bridge the gap between **advanced mathematical theory** and **high‑impact business decisions**.  
+With a strong academic background in **Probability**, **Statistics**, and **Stochastic Modeling**, I leverage **Machine Learning** to transform raw data into predictive engines and measurable business value.
 
-I bridge the gap between complex mathematical theory and real-world business constraints. With an academic background in **Stochastic Modeling and Optimization**, and operational experience in high-stakes logistics, I build data pipelines, risk engines, and analytical models that drive strategic decisions.
+Whether I am designing **trading algorithms**, optimizing **complex logistics**, or deploying **predictive models**, my focus is always on engineering **robust solutions** that drive strategic ROI.
 
-*"Amor Fati — Embracing variance, optimizing the expected value."*
+> **Amor Fati — Embracing variance, optimizing the expected value**  
+> \(\mathbb{E}[X]\)
 
 ---
 
-###  Tech Stack & Tools
-*   **Data Engineering & DB:** SQL (PostgreSQL), ETL Pipelines, Data Cleansing
-*   **Programming & Scripting:** Python (Pandas, NumPy), R, LaTeX
-*   **Data Viz & BI:** Power BI, Tableau, Advanced Excel
-*   **Mathematics:** Quantitative Finance, Monte Carlo Simulations, Probability, Optimization
+## 🛠️ Tech Stack & Core Competencies
 
-###  What I'm currently working on
+### **Machine Learning & Predictive Modeling**
+- Scikit‑Learn  
+- XGBoost  
+- PyTorch  
+- Time Series Analysis  
 
-*    **PropFirm Risk Engine:** Algorithmic risk management tool simulating trailing drawdowns and Value at Risk (VaR).
+### **Quantitative Finance & Mathematics**
+- Stochastic Calculus  
+- Monte Carlo Simulations  
+- Pricing Models  
+- Value at Risk (VaR)  
+
+### **Data Engineering & Architecture**
+- Python (Pandas, NumPy)  
+- SQL (PostgreSQL)  
+- Git  
+- ETL Pipelines  
+
+### **BI, Analytics & Deployment**
+- Power BI  
+- Tableau  
+- Streamlit (interactive ML web apps)  
+- LaTeX  
+
+---
+
+## 🚀 What I'm Currently Working On
+
+### **PropFirm Risk Engine**
+Building an **algorithmic risk management tool** in Python, leveraging:
+
+- **Markov chains**  
+- **Merton Jump‑Diffusion models**  
+- **Stochastic simulations**  
+
+to model **trailing drawdowns**, evaluate **quantitative trading rules**, and design **risk‑aware trading environments**.
 
 
 ###  Let's Connect
