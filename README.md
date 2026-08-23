@@ -6,7 +6,7 @@ With a strong academic background in **Probability**, **Statistics**, and **Stoc
 
 Whether I am designing **trading algorithms**, optimizing **complex logistics**, or deploying **predictive models**, my focus is always on engineering **robust solutions** that drive strategic ROI.
 
-> **Amor Fati — Embracing variance, optimizing the expected value**  \(\mathbb{E}[X]\)
+> **Amor Fati — Embracing variance, optimizing the expected value** 
 
 ---
 
